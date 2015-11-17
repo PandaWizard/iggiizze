@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Front-end Thinking]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://iggiizze.com/"/>
-  <updated>2015-11-08T09:16:41.000Z</updated>
+  <updated>2015-11-17T01:39:56.000Z</updated>
   <id>http://iggiizze.com/</id>
   
   <author>
@@ -15,20 +15,80 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[网站前端工作准备]]></title>
+    <link href="http://iggiizze.com/2015/11/10/fe-prepared/"/>
+    <id>http://iggiizze.com/2015/11/10/fe-prepared/</id>
+    <published>2015-11-10T06:44:10.000Z</published>
+    <updated>2015-11-17T01:39:56.000Z</updated>
+    <content type="html"><![CDATA[<ul>
+<li>浏览网站整体架构，找出设计不合理处然后做出调整</li>
+<li>找出风格一致的样式，将其捆绑作为主题样式供日后修改风格<ul>
+<li>将相同可共用的样式分类</li>
+<li>规划出网页大体布局<ul>
+<li>实现设计好页面（内容，板块，图片等）的尺寸大小</li>
+<li>确定页面各内容（以及子内容）的布局方式</li>
+</ul>
+</li>
+<li>将可用到的样式图片收集待用</li>
+<li>代码实现网页，尽量做到结构与内容分离<ul>
+<li>先把结构做好再添加内容(包括文字和图片)</li>
+</ul>
+</li>
+<li>设计页面特效<ul>
+<li>事先找出哪些部分需要怎样的效果来呈现，以便达到更好的用户体验</li>
+</ul>
+</li>
+<li>撰写JS代码</li>
+</ul>
+</li>
+<li>团队配合很重要，出现问题要及时讨论<a id="more"></a>
+</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ul>
+<li>浏览网站整体架构，找出设计不合理处然后做出调整</li>
+<li>找出风格一致的样式，将其捆绑作为主题样式供日后修改风格<ul>
+<li>将相同可共用的样式分类</li>
+<li>规划出网页大体布局<ul>
+<li>实现设计好页面（内容，板块，图片等）的尺寸大小</li>
+<li>确定页面各内容（以及子内容）的布局方式</li>
+</ul>
+</li>
+<li>将可用到的样式图片收集待用</li>
+<li>代码实现网页，尽量做到结构与内容分离<ul>
+<li>先把结构做好再添加内容(包括文字和图片)</li>
+</ul>
+</li>
+<li>设计页面特效<ul>
+<li>事先找出哪些部分需要怎样的效果来呈现，以便达到更好的用户体验</li>
+</ul>
+</li>
+<li>撰写JS代码</li>
+</ul>
+</li>
+<li>团队配合很重要，出现问题要及时讨论]]>
+    
+    </summary>
+    
+      <category term="前端" scheme="http://iggiizze.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[我是谁]]></title>
     <link href="http://iggiizze.com/2015/11/08/whoami/"/>
     <id>http://iggiizze.com/2015/11/08/whoami/</id>
     <published>2015-11-08T09:03:27.000Z</published>
-    <updated>2015-11-08T09:16:41.000Z</updated>
-    <content type="html"><![CDATA[<blockquote>
-<p>iggizze.com是利用hexo+github 搭建的一个个人博客。<br><a href="https://hexo.io" target="_blank" rel="external">hexo</a>是一个简单、快速、强大的Node.js静态博客框架<br>iggiizze是作者本人数字生日字母版本，本站将是一个<em>文字解密解读</em>的站点。<br><a id="more"></a></p>
-</blockquote>
+    <updated>2015-11-17T01:39:52.000Z</updated>
+    <content type="html"><![CDATA[<p>iggizze.com是利用hexo+github 搭建的一个个人博客<br><a href="https://hexo.io" target="_blank" rel="external">hexo</a>是一个简单、快速、强大的Node.js静态博客框架<br>iggiizze是作者本人数字生日字母版本<br><a id="more"></a></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<blockquote>
-<p>iggizze.com是利用hexo+github 搭建的一个个人博客。<br><a href="https://hexo.io">hexo</a>是一个简单、快速、强大的Node.js静态博客框架<br>iggiizze是作者本人数字生日字母版本，本站将是一个<em>文字解密解读</em>的站点。<br>]]>
+    <![CDATA[<p>iggizze.com是利用hexo+github 搭建的一个个人博客<br><a href="https://hexo.io">hexo</a>是一个简单、快速、强大的Node.js静态博客框架<br>iggiizze是作者本人数字生日字母版本<br>]]>
     
     </summary>
+    
+      <category term="前端" scheme="http://iggiizze.com/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
