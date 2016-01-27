@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Front-end Thinking]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://iggiizze.com/"/>
-  <updated>2016-01-12T02:44:53.000Z</updated>
+  <updated>2015-11-24T06:00:29.000Z</updated>
   <id>http://iggiizze.com/</id>
   
   <author>
@@ -15,47 +15,10 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[editorgod-vim]]></title>
-    <link href="http://iggiizze.com/2016/01/12/editorgod-vim/"/>
-    <id>http://iggiizze.com/2016/01/12/editorgod-vim/</id>
-    <published>2016-01-12T02:44:53.000Z</published>
-    <updated>2016-01-12T02:44:53.000Z</updated>
-    <content type="html"><![CDATA[<a id="more"></a>
-]]></content>
-    <summary type="html">
-    <![CDATA[<a id="more"></a>
-]]>
-    </summary>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[cheerio]]></title>
-    <link href="http://iggiizze.com/2015/12/01/cheerio/"/>
-    <id>http://iggiizze.com/2015/12/01/cheerio/</id>
-    <published>2015-12-01T07:25:38.000Z</published>
-    <updated>2015-12-01T07:34:32.000Z</updated>
-    <content type="html"><![CDATA[<p>cheerio是nodejs特别为服务端定制的，能够快速灵活的对jQuery核心进行实现。它工作于DOM模型上，且<br>解析、操作、呈现都很高效。</p>
-<blockquote>
-<p>var html = ‘<ul id="fruits">‘+<br>    ‘   <li class="apple">Apple</li>‘+<br>    ‘   <li class="orange">Orange</li>‘+<br>    ‘   <li class="pear">Pear</li>‘+<br>    ‘</ul>‘;<br>var cheerio = require(‘cheerio’),<br>$ = cheerio.load(html);<br>console.log(4.html());<br><a id="more"></a></p>
-</blockquote>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>cheerio是nodejs特别为服务端定制的，能够快速灵活的对jQuery核心进行实现。它工作于DOM模型上，且<br>解析、操作、呈现都很高效。</p>
-<blockquote>
-<p>var html = ‘<ul id="fruits">‘+<br>    ‘   <li class="apple">Apple</li>‘+<br>    ‘   <li class="orange">Orange</li>‘+<br>    ‘   <li class="pear">Pear</li>‘+<br>    ‘</ul>‘;<br>var cheerio = require(‘cheerio’),<br>$ = cheerio.load(html);<br>console.log(4.html());<br>]]>
-    
-    </summary>
-    
-      <category term="nodejs" scheme="http://iggiizze.com/tags/nodejs/"/>
-    
-  </entry>
-  
-  <entry>
     <title></title>
-    <link href="http://iggiizze.com/2015/11/24/fe-thinking/"/>
-    <id>http://iggiizze.com/2015/11/24/fe-thinking/</id>
-    <published>2015-11-24T06:00:29.000Z</published>
+    <link href="http://iggiizze.com/2016/01/14/fe-thinking/"/>
+    <id>http://iggiizze.com/2016/01/14/fe-thinking/</id>
+    <published>2016-01-14T00:47:35.000Z</published>
     <updated>2015-11-24T06:00:29.000Z</updated>
     <content type="html"><![CDATA[<p>title: 前端迷思<br>date: 2015-11-24 10:38:40<br>categories:<br>tags: [前端]</p>
 <h1 id="photos:">photos:</h1><a id="more"></a>
@@ -65,6 +28,41 @@
 <h1 id="photos:">photos:</h1>]]>
     
     </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[编辑器之神Vim]]></title>
+    <link href="http://iggiizze.com/2016/01/12/editorgod-vim/"/>
+    <id>http://iggiizze.com/2016/01/12/editorgod-vim/</id>
+    <published>2016-01-12T02:44:53.000Z</published>
+    <updated>2016-01-12T03:12:39.000Z</updated>
+    <content type="html"><![CDATA[<p>   今天在机器上看了vimtutor,子曰：“工欲善其事，必先利其器”。一句话说vim：“编辑器之神”。</p>
+<a id="more"></a>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>   今天在机器上看了vimtutor,子曰：“工欲善其事，必先利其器”。一句话说vim：“编辑器之神”。</p>]]>
+    
+    </summary>
+    
+      <category term="vim" scheme="http://iggiizze.com/tags/vim/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[cheerio]]></title>
+    <link href="http://iggiizze.com/2015/12/01/cheerio/"/>
+    <id>http://iggiizze.com/2015/12/01/cheerio/</id>
+    <published>2015-12-01T07:25:38.000Z</published>
+    <updated>2016-01-12T02:54:45.000Z</updated>
+    <content type="html"><![CDATA[<p>cheerio是nodejs特别为服务端定制的，能够快速灵活的对jQuery核心进行实现。它工作于DOM模型上，且<br>解析、操作、呈现都很高效。<br><a id="more"></a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>cheerio是nodejs特别为服务端定制的，能够快速灵活的对jQuery核心进行实现。它工作于DOM模型上，且<br>解析、操作、呈现都很高效。<br>]]>
+    
+    </summary>
+    
+      <category term="nodejs" scheme="http://iggiizze.com/tags/nodejs/"/>
     
   </entry>
   
