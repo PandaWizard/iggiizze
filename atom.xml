@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Iggiizze's Blog]]></title>
-  <subtitle><![CDATA[Front-end Thinking]]></subtitle>
+  <subtitle><![CDATA[May the Force be with you]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://iggiizze.com/"/>
   <updated>2016-01-27T07:16:15.000Z</updated>
